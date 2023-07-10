@@ -8,6 +8,8 @@
 
 - 👨‍💻 I’m currently working on [Neonwranglerpy](https://github.com/weecology/neonwranglerpy)
 
+- 🔗 Connect on  [LinkedIn](https://www.linkedin.com/in/satsin06/)
+
 - 💻 All of my projects are available on [GitHub](https://github.com/satsin06)
 
 - 📖 Check my blogs on  [Medium](https://medium.com/@satsin06)
