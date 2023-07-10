@@ -10,7 +10,7 @@
 
 - 💻 All of my projects are available on [GitHub](https://github.com/satsin06)
 
-- 📽️ Check my blogs on  [Medium](https://medium.com/@satsin06)
+- 📖 Check my blogs on  [Medium](https://medium.com/@satsin06)
 
 - 💬 Ask me about **Python Programming and Flutter Development**
 
