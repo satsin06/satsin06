@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satsin06&label=Profile%20views&color=orange&style=for-the-badge" alt="satsin06" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning and System Design**
+- 🌱 I’m currently learning **Deep Learning, GoLang and System Design**
 
-- 👨‍💻 I’m currently working on [Neonwranglerpy](https://github.com/weecology/neonwranglerpy)
+- 👨‍💻 I’m currently exploring [GoLang](https://go.dev/learn/)
 
 - 🔗 Connect on  [LinkedIn](https://www.linkedin.com/in/satsin06/)
 
