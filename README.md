@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Android, GoLang and System Design**
 
-- 👨‍💻 I’m currently exploring [Nodejs]([https://go.dev/learn/](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs))
+- 👨‍💻 I’m currently exploring [Nodejs](https://go.dev/learn/](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
 - 🔗 Connect on  [LinkedIn](https://www.linkedin.com/in/satsin06/)
 
