@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Satyam Sinha</h1>
+<h1 align="center">Hi there 👋, I'm Satyam Sinha</h1>
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satsin06&label=Profile%20views&color=orange&style=for-the-badge" alt="satsin06" /> </p>
